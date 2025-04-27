@@ -5,7 +5,8 @@
   "scripts": {
     "lint": "prettier --check src",
     "typecheck": "tsc --noEmit",
-    "tests": "echo 'Testes passaram'"
+    "tests": "echo 'Testes passaram'",
+    "build": "tsc"
   },
   "keywords": [],
   "author": "",
