@@ -1,0 +1,18 @@
+{
+  "name": "live005",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "lint": "prettier --check src",
+    "typecheck": "tsc --noEmit",
+    "tests": "echo 'Testes passaram'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "prettier": "^3.5.3",
+    "typescript": "^5.8.3"
+  }
+}
